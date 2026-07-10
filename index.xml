@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>shumi project</title>
-    <link>https://shumi.cc/</link>
+    <link>https://shumi-labs.github.io/github.com-shumi-labs-shumi/</link>
     <description>Recent content on shumi project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://shumi.cc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shumi-labs.github.io/github.com-shumi-labs-shumi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Close up portrait</title>
-      <link>https://shumi.cc/images/post_5/</link>
+      <link>https://shumi-labs.github.io/github.com-shumi-labs-shumi/images/post_5/</link>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://shumi.cc/images/post_5/</guid>
+      <guid>https://shumi-labs.github.io/github.com-shumi-labs-shumi/images/post_5/</guid>
       <description>&lt;h3 id=&#34;prompt&#34;&gt;Prompt&lt;/h3&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-Prompt&#34; data-lang=&#34;Prompt&#34;&gt;Hyper-realistic cinematic Create an 8k photorealistic image using the attached photo. 
 A close-up portrait of a woman with Her striking, eyes gaze upwards and to the right, 
 catching a sharp, diagonal beam of natural light that illuminates the high points of her cheekbone, 
 nose, and plump, glossy, mauve-toned lips a slightly light weight silk.￼
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img alt=&#34;Diamond&#34; loading=&#34;lazy&#34; src=&#34;https://shumi.cc/images/260710/002.png&#34;&gt;
-&lt;img alt=&#34;Diamond&#34; loading=&#34;lazy&#34; src=&#34;https://shumi.cc/images/260710/003.png&#34;&gt;&lt;/p&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img alt=&#34;Diamond&#34; loading=&#34;lazy&#34; src=&#34;https://shumi-labs.github.io/github.com-shumi-labs-shumi/images/260710/002.png&#34;&gt;
+&lt;img alt=&#34;Diamond&#34; loading=&#34;lazy&#34; src=&#34;https://shumi-labs.github.io/github.com-shumi-labs-shumi/images/260710/003.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prueba</title>
-      <link>https://shumi.cc/images/prueba_1/</link>
+      <link>https://shumi-labs.github.io/github.com-shumi-labs-shumi/images/prueba_1/</link>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://shumi.cc/images/prueba_1/</guid>
+      <guid>https://shumi-labs.github.io/github.com-shumi-labs-shumi/images/prueba_1/</guid>
       <description></description>
     </item>
     <item>
       <title>Prueba</title>
-      <link>https://shumi.cc/images/prueba_2/</link>
+      <link>https://shumi-labs.github.io/github.com-shumi-labs-shumi/images/prueba_2/</link>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://shumi.cc/images/prueba_2/</guid>
+      <guid>https://shumi-labs.github.io/github.com-shumi-labs-shumi/images/prueba_2/</guid>
       <description></description>
     </item>
     <item>
       <title>Prueba</title>
-      <link>https://shumi.cc/images/prueba_3/</link>
+      <link>https://shumi-labs.github.io/github.com-shumi-labs-shumi/images/prueba_3/</link>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://shumi.cc/images/prueba_3/</guid>
+      <guid>https://shumi-labs.github.io/github.com-shumi-labs-shumi/images/prueba_3/</guid>
       <description></description>
     </item>
     <item>
       <title>Prueba</title>
-      <link>https://shumi.cc/images/prueba_4/</link>
+      <link>https://shumi-labs.github.io/github.com-shumi-labs-shumi/images/prueba_4/</link>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://shumi.cc/images/prueba_4/</guid>
+      <guid>https://shumi-labs.github.io/github.com-shumi-labs-shumi/images/prueba_4/</guid>
       <description></description>
     </item>
     <item>
       <title>Hola Mundo</title>
-      <link>https://shumi.cc/posts/hola-mundo/</link>
+      <link>https://shumi-labs.github.io/github.com-shumi-labs-shumi/posts/hola-mundo/</link>
       <pubDate>Tue, 07 Jul 2026 00:15:47 +0200</pubDate>
-      <guid>https://shumi.cc/posts/hola-mundo/</guid>
+      <guid>https://shumi-labs.github.io/github.com-shumi-labs-shumi/posts/hola-mundo/</guid>
       <description>&lt;p&gt;Este es mi primer post en Hugo, probando el theme PaperMod.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Paisaje de prueba&#34; loading=&#34;lazy&#34; src=&#34;https://shumi.cc/images/001.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Paisaje de prueba&#34; loading=&#34;lazy&#34; src=&#34;https://shumi-labs.github.io/github.com-shumi-labs-shumi/images/001.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Acá puedo escribir en &lt;strong&gt;Markdown&lt;/strong&gt;: negrita, &lt;em&gt;cursiva&lt;/em&gt;, listas, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hola Mundo</title>
-      <link>https://shumi.cc/posts/prueba-copia/</link>
+      <link>https://shumi-labs.github.io/github.com-shumi-labs-shumi/posts/prueba-copia/</link>
       <pubDate>Tue, 07 Jul 2026 00:15:47 +0200</pubDate>
-      <guid>https://shumi.cc/posts/prueba-copia/</guid>
+      <guid>https://shumi-labs.github.io/github.com-shumi-labs-shumi/posts/prueba-copia/</guid>
       <description>&lt;p&gt;Este es mi primer post en Hugo, probando el theme PaperMod.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Paisaje de prueba&#34; loading=&#34;lazy&#34; src=&#34;https://images.pexels.com/photos/1382731/pexels-photo-1382731.jpeg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Acá puedo escribir en &lt;strong&gt;Markdown&lt;/strong&gt;: negrita, &lt;em&gt;cursiva&lt;/em&gt;, listas, etc.&lt;/p&gt;
