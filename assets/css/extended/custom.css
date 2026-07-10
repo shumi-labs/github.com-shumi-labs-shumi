@@ -1,0 +1,212 @@
+:root {
+  --theme: #e6e7ee !important;
+  --entry: #e6e7ee !important;
+  --primary: #44476A !important;
+}
+
+body {
+  font-family: "Nunito Sans", sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 300 !important;
+  background: #e6e7ee !important;
+  color: #44476A !important;
+}
+
+.post-entry {
+  background: #e6e7ee !important;
+}
+
+[data-theme="dark"] {
+  --theme: #2b2c37 !important;
+  --entry: #2b2c37 !important;
+  --primary: #e6e7ee !important;
+}
+
+[data-theme="dark"] body {
+  background: #2b2c37 !important;
+  color: #e6e7ee !important;
+}
+
+[data-theme="dark"] .post-entry {
+  background: #2b2c37 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Nunito Sans", sans-serif !important;
+  font-weight: 700 !important;
+  color: #44476A !important;
+}
+
+
+
+
+/* Archives layout */
+.archive-month {
+  font-size: 13px;
+  color: var(--secondary);
+  font-weight: 400;
+}
+
+.archive-month-header {
+  font-size: 13px;
+  color: var(--secondary);
+}
+
+.archive-year {
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--secondary);
+}
+
+.archive-entry .entry-title {
+  font-size: 15px !important;
+  font-weight: 400 !important;
+}
+
+.archive-entry {
+  border-bottom: 1px solid var(--border);
+  padding: 10px 0;
+}
+
+.archive-entry .entry-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.archive-header h1 {
+  text-align: center;
+}
+
+
+
+.masonry-wrapper {
+  column-count: 3;
+  column-gap: 4px;
+  padding: 2px;
+}
+
+.masonry-item {
+  break-inside: avoid;
+  margin-bottom: 4px;
+}
+
+.masonry-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+  .masonry-wrapper { column-count: 2; }
+}
+
+@media (max-width: 480px) {
+  .masonry-wrapper { column-count: 1; }
+}
+
+/* Home: posts agrupados por año */
+.posts-by-year {
+  max-width: var(--content-width, 780px);
+  margin: 0 auto;
+  padding: 0 var(--gap, 20px);
+}
+
+.year-group {
+  margin-bottom: 40px;
+}
+
+.year-heading {
+  font-size: 22px !important;
+  font-weight: 700 !important;
+  margin-bottom: 14px;
+}
+
+.year-posts {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.year-post-entry {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  padding: 10px 0;
+}
+
+.year-post-title {
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--primary);
+  text-decoration: none;
+}
+
+.year-post-title:hover {
+  text-decoration: underline;
+}
+
+.year-post-date {
+  font-size: 13px;
+  color: var(--secondary);
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .year-post-entry {
+    flex-direction: column;
+    gap: 2px;
+  }
+}
+
+/* Header: logo a la izquierda, menú a la derecha, a los extremos */
+.header-nav {
+  max-width: 100% !important;
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+}
+
+@media (max-width: 768px) {
+  .header-nav {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+}
+
+/* Título del home: más chico y separado del listado */
+.posts-by-year {
+  margin-top: 20px;
+}
+
+.page-header h1 {
+  font-size: 22px !important;
+  font-weight: 500 !important;
+  margin-bottom: 40px !important;
+}
+
+.home-intro {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--secondary);
+  margin-bottom: 40px;
+  max-width: 600px;
+}
+
+/* Logo SVG inline: color según tema */
+.logo-svg-link {
+  display: flex !important;
+  align-items: center;
+  gap: 8px;
+}
+
+.logo-svg-link svg {
+  height: 24px;
+  width: auto;
+  color: #44476A;
+}
+
+[data-theme="dark"] .logo-svg-link svg {
+  color: #e6e7ee;
+}
